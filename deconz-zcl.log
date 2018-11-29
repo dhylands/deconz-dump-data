@@ -1,0 +1,1995 @@
+    6.806   877 Sent: Device State (0x07) Request 
+    6.825   883 Rcvd: Device State (0x07) Response Net:C Dev:-DR-
+    6.828   885 Sent: Version (0x0d) Request 
+    6.841   889 Rcvd: Version (0x0d) Response 260b0500
+    6.844   891 Sent: Unknown 17 (0x11) Request 
+    6.873   899 Rcvd: Unknown 17 (0x11) Response
+    6.876   901 Sent: Unknown 17 (0x11) Request 
+    6.890   905 Rcvd: Unknown 17 (0x11) Response
+    6.908   911 Sent: Unknown 17 (0x11) Request 
+    6.922   915 Rcvd: Unknown 17 (0x11) Response
+    6.925   917 Sent: Unknown 17 (0x11) Request 
+    6.938   921 Rcvd: Unknown 17 (0x11) Response
+    6.941   923 Sent: Unknown 17 (0x11) Request 
+    6.954   927 Rcvd: Unknown 17 (0x11) Response
+    6.957   929 Sent: Unknown 17 (0x11) Request 
+    6.970   933 Rcvd: Unknown 17 (0x11) Response
+    6.973   935 Sent: Unknown 17 (0x11) Request 
+    6.986   939 Rcvd: Unknown 17 (0x11) Response
+    6.989   941 Sent: Unknown 17 (0x11) Request 
+    7.002   945 Rcvd: Unknown 17 (0x11) Response
+    7.005   947 Sent: Unknown 17 (0x11) Request 
+    7.018   951 Rcvd: Unknown 17 (0x11) Response
+    7.021   953 Sent: Unknown 17 (0x11) Request 
+    7.034   957 Rcvd: Unknown 17 (0x11) Response
+    7.037   959 Sent: Unknown 17 (0x11) Request 
+    7.050   963 Rcvd: Unknown 17 (0x11) Response
+    7.053   965 Sent: Unknown 17 (0x11) Request 
+    7.066   969 Rcvd: Unknown 17 (0x11) Response
+    7.069   971 Sent: Unknown 17 (0x11) Request 
+    7.082   975 Rcvd: Unknown 17 (0x11) Response
+    7.085   977 Sent: Unknown 17 (0x11) Request 
+    7.098   981 Rcvd: Unknown 17 (0x11) Response
+    7.101   983 Sent: Unknown 17 (0x11) Request 
+    7.114   987 Rcvd: Unknown 17 (0x11) Response
+    7.117   989 Sent: Unknown 17 (0x11) Request 
+    7.130   993 Rcvd: Unknown 17 (0x11) Response
+    7.133   995 Sent: Unknown 17 (0x11) Request 
+    7.146   999 Rcvd: Unknown 17 (0x11) Response
+    7.149  1001 Sent: Unknown 17 (0x11) Request 
+    7.162  1005 Rcvd: Unknown 17 (0x11) Response
+    7.165  1007 Sent: Read Parameter (0x0A) Request  Protocol Version
+    7.178  1011 Rcvd: Read Parameter (0x0A) Response Protocol Version: 260
+    7.181  1013 Sent: Read Parameter (0x0A) Request  MAC Address
+    7.194  1017 Rcvd: Read Parameter (0x0A) Response MAC Address: 00212effff0279c0
+    7.197  1019 Sent: Read Parameter (0x0A) Request  Network PANID16
+    7.210  1023 Rcvd: Read Parameter (0x0A) Response Network PANID16: be96
+    7.213  1025 Sent: Read Parameter (0x0A) Request  Network PANID64
+    7.226  1029 Rcvd: Read Parameter (0x0A) Response Network PANID64: 00212effff0279c0
+    7.250  1037 Sent: Read Parameter (0x0A) Request  Network Addr16
+    7.274  1043 Rcvd: Read Parameter (0x0A) Response Network Addr16: 0000
+    7.277  1045 Sent: Read Parameter (0x0A) Request  Scan Channels
+    7.290  1049 Rcvd: Read Parameter (0x0A) Response Scan Channels: 33554432
+    7.293  1051 Sent: Read Parameter (0x0A) Request  APS Designated Coordinator
+    7.306  1055 Rcvd: Read Parameter (0x0A) Response APS Designated Coordinator: 1
+    7.309  1057 Sent: Read Parameter (0x0A) Request  Trust Center Addr64
+    7.322  1061 Rcvd: Read Parameter (0x0A) Response Trust Center Addr64: 00212effff0279c0
+    7.325  1063 Sent: Read Parameter (0x0A) Request  Unknown(13)
+No parser for paramId: 13
+    7.338  1067 Rcvd: Read Parameter (0x0A) Response Unknown(13)
+    7.341  1069 Sent: Read Parameter (0x0A) Request  Security Mode
+    7.354  1073 Rcvd: Read Parameter (0x0A) Response Security Mode: 3
+    7.357  1075 Sent: Read Parameter (0x0A) Request  APS PANID64
+    7.370  1079 Rcvd: Read Parameter (0x0A) Response APS PANID64: 0000000000000000
+    7.373  1081 Sent: Read Parameter (0x0A) Request  Unknown(21)
+No parser for paramId: 21
+    7.386  1085 Rcvd: Read Parameter (0x0A) Response Unknown(21)
+    7.389  1087 Sent: Read Parameter (0x0A) Request  Operating Channel
+    7.402  1091 Rcvd: Read Parameter (0x0A) Response Operating Channel: 25
+    7.405  1093 Sent: Read Parameter (0x0A) Request  Unknown(30)
+No parser for paramId: 30
+    7.418  1097 Rcvd: Read Parameter (0x0A) Response Unknown(30)
+    7.421  1099 Sent: Read Parameter (0x0A) Request  Permit Join
+    7.434  1103 Rcvd: Read Parameter (0x0A) Response Permit Join: 120
+    7.437  1105 Sent: Read Parameter (0x0A) Request  Network Update ID
+    7.450  1109 Rcvd: Read Parameter (0x0A) Response Network Update ID: 0
+    7.453  1111 Sent: Read Parameter (0x0A) Request  Unknown(35)
+No parser for paramId: 35
+    7.466  1115 Rcvd: Read Parameter (0x0A) Response Unknown(35)
+    7.469  1117 Sent: Read Parameter (0x0A) Request  Unknown(29)
+No parser for paramId: 29
+    7.482  1121 Rcvd: Read Parameter (0x0A) Response Unknown(29)
+    7.485  1123 Sent: Read Parameter (0x0A) Request  Unknown(32)
+No parser for paramId: 32
+    7.498  1127 Rcvd: Read Parameter (0x0A) Response Unknown(32)
+    7.501  1129 Sent: Read Parameter (0x0A) Request  Network Key
+    7.514  1133 Rcvd: Read Parameter (0x0A) Response Network Key: d09840d06c00fc2498646c4048000000
+    7.517  1135 Sent: Read Parameter (0x0A) Request  Unknown(19)
+No parser for paramId: 19
+    7.530  1139 Rcvd: Read Parameter (0x0A) Response Unknown(19)
+    7.533  1141 Sent: Read Parameter (0x0A) Request  Unknown(19)
+No parser for paramId: 19
+    7.546  1145 Rcvd: Read Parameter (0x0A) Response Unknown(19)
+    7.549  1147 Sent: Read Parameter (0x0A) Request  Unknown(22)
+No parser for paramId: 22
+    7.562  1151 Rcvd: Read Parameter (0x0A) Response Unknown(22)
+    7.565  1153 Sent: Read Parameter (0x0A) Request  Unknown(37)
+No parser for paramId: 37
+    7.578  1157 Rcvd: Read Parameter (0x0A) Response Unknown(37)
+    7.581  1159 Sent: Read Parameter (0x0A) Request  Protocol Version
+    7.594  1163 Rcvd: Read Parameter (0x0A) Response Protocol Version: 260
+    7.597  1165 Sent: Read Parameter (0x0A) Request  MAC Address
+    7.610  1169 Rcvd: Read Parameter (0x0A) Response MAC Address: 00212effff0279c0
+    7.613  1171 Sent: Read Parameter (0x0A) Request  Network PANID16
+    7.626  1175 Rcvd: Read Parameter (0x0A) Response Network PANID16: be96
+    7.629  1177 Sent: Read Parameter (0x0A) Request  Network PANID64
+    7.642  1181 Rcvd: Read Parameter (0x0A) Response Network PANID64: 00212effff0279c0
+    7.645  1183 Sent: Read Parameter (0x0A) Request  Network Addr16
+    7.658  1187 Rcvd: Read Parameter (0x0A) Response Network Addr16: 0000
+    7.661  1189 Sent: Read Parameter (0x0A) Request  Scan Channels
+    7.674  1193 Rcvd: Read Parameter (0x0A) Response Scan Channels: 33554432
+    7.677  1195 Sent: Read Parameter (0x0A) Request  APS Designated Coordinator
+    7.690  1199 Rcvd: Read Parameter (0x0A) Response APS Designated Coordinator: 1
+    7.693  1201 Sent: Read Parameter (0x0A) Request  Trust Center Addr64
+    7.706  1205 Rcvd: Read Parameter (0x0A) Response Trust Center Addr64: 00212effff0279c0
+    7.709  1207 Sent: Read Parameter (0x0A) Request  Unknown(13)
+No parser for paramId: 13
+    7.722  1211 Rcvd: Read Parameter (0x0A) Response Unknown(13)
+    7.725  1213 Sent: Read Parameter (0x0A) Request  Security Mode
+    7.738  1217 Rcvd: Read Parameter (0x0A) Response Security Mode: 3
+    7.741  1219 Sent: Read Parameter (0x0A) Request  APS PANID64
+    7.754  1223 Rcvd: Read Parameter (0x0A) Response APS PANID64: 0000000000000000
+    7.757  1225 Sent: Read Parameter (0x0A) Request  Unknown(21)
+No parser for paramId: 21
+    7.770  1229 Rcvd: Read Parameter (0x0A) Response Unknown(21)
+    7.773  1231 Sent: Read Parameter (0x0A) Request  Operating Channel
+    7.786  1235 Rcvd: Read Parameter (0x0A) Response Operating Channel: 25
+    7.789  1237 Sent: Read Parameter (0x0A) Request  Unknown(30)
+No parser for paramId: 30
+    7.802  1241 Rcvd: Read Parameter (0x0A) Response Unknown(30)
+    7.805  1243 Sent: Read Parameter (0x0A) Request  Permit Join
+    7.818  1247 Rcvd: Read Parameter (0x0A) Response Permit Join: 120
+    7.821  1249 Sent: Read Parameter (0x0A) Request  Network Update ID
+    7.834  1253 Rcvd: Read Parameter (0x0A) Response Network Update ID: 0
+    7.837  1255 Sent: Read Parameter (0x0A) Request  Unknown(35)
+No parser for paramId: 35
+    7.850  1259 Rcvd: Read Parameter (0x0A) Response Unknown(35)
+    7.853  1261 Sent: Read Parameter (0x0A) Request  Unknown(29)
+No parser for paramId: 29
+    7.866  1265 Rcvd: Read Parameter (0x0A) Response Unknown(29)
+    7.869  1267 Sent: Read Parameter (0x0A) Request  Unknown(32)
+No parser for paramId: 32
+    7.882  1271 Rcvd: Read Parameter (0x0A) Response Unknown(32)
+    7.885  1273 Sent: Read Parameter (0x0A) Request  Network Key
+    7.898  1277 Rcvd: Read Parameter (0x0A) Response Network Key: d09840d06c00fc2498646c4048000000
+    7.901  1279 Sent: Read Parameter (0x0A) Request  Unknown(19)
+No parser for paramId: 19
+    7.914  1283 Rcvd: Read Parameter (0x0A) Response Unknown(19)
+    7.917  1285 Sent: Read Parameter (0x0A) Request  Unknown(19)
+No parser for paramId: 19
+    7.931  1289 Rcvd: Read Parameter (0x0A) Response Unknown(19)
+    7.934  1293 Sent: Read Parameter (0x0A) Request  Unknown(22)
+No parser for paramId: 22
+    7.947  1295 Rcvd: Read Parameter (0x0A) Response Unknown(22)
+    7.950  1299 Sent: Read Parameter (0x0A) Request  Unknown(37)
+No parser for paramId: 37
+    7.963  1301 Rcvd: Read Parameter (0x0A) Response Unknown(37)
+    7.966  1305 Sent: Read Parameter (0x0A) Request  Unknown(25)
+No parser for paramId: 25
+    7.995  1311 Rcvd: Read Parameter (0x0A) Response Unknown(25)
+    7.998  1315 Sent: Read Parameter (0x0A) Request  Unknown(25)
+No parser for paramId: 25
+    8.027  1321 Rcvd: Read Parameter (0x0A) Response Unknown(25)
+    8.030  1325 Sent: Read Received Data (APS Data Indication) Request
+    8.059  1331 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0019 genOta queryNextImageReq
+    8.059  1331 Rcvd:   payload: { fieldCtrl: 1, manufCode: 4489, imageType: 13 }
+    8.059  1331 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0019 genOta queryNextImageReq
+    8.059  1331 Rcvd:   payload: { fieldCtrl: 1, manufCode: 4489, imageType: 13 }
+    8.062  1335 Sent: Read Received Data (APS Data Indication) Request
+    8.091  1341 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0019 genOta queryNextImageReq
+    8.091  1341 Rcvd:   payload: { fieldCtrl: 1, manufCode: 4489, imageType: 13 }
+    8.091  1341 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0019 genOta queryNextImageReq
+    8.091  1341 Rcvd:   payload: { fieldCtrl: 1, manufCode: 4489, imageType: 13 }
+    8.094  1345 Sent: Read Received Data (APS Data Indication) Request
+    8.123  1351 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0019 genOta queryNextImageReq
+    8.123  1351 Rcvd:   payload: { fieldCtrl: 1, manufCode: 4489, imageType: 13 }
+    8.123  1351 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0019 genOta queryNextImageReq
+    8.123  1351 Rcvd:   payload: { fieldCtrl: 1, manufCode: 4489, imageType: 13 }
+    8.126  1355 Sent: Unknown 26 (0x1a) Request 
+    8.139  1357 Rcvd: Unknown 26 (0x1a) Response
+    8.142  1361 Sent: Enqueue Send Data 0000 ZDO 0005 Active Endpoints Req (0x0005) 
+    8.142  1361 Sent:   Dest: 0000
+    8.187  1371 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+    8.190  1375 Sent: Unknown 26 (0x1a) Request 
+    8.203  1377 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+    8.203  1377 Rcvd: Unknown 26 (0x1a) Response
+    8.206  1381 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+    8.206  1381 Sent:       0:onOff
+    8.206  1381 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+    8.206  1381 Sent:       0:onOff
+    8.235  1387 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:CDR-
+    8.238  1391 Sent: Query Send Data State (APS Data Confirm) Request
+    8.251  1393 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+    8.267  1397 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:4 Net:C Dev:CDR-
+    8.270  1401 Sent: Query Send Data State (APS Data Confirm) Request
+    8.283  1403 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:9 Net:C Dev:-DR-
+    8.286  1407 Sent: Read Received Data (APS Data Indication) Request
+    8.315  1413 Rcvd: Read Received Data 00212effff0279c0 ZDO 8005 Active Endpoints Resp (0x8005)  status: success (0)
+    8.315  1413 Rcvd:   Status:0 Addr:0000 EP:[1,80]
+    8.331  1417 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+    8.334  1421 Sent: Read Received Data (APS Data Indication) Request
+    8.363  1427 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+    8.363  1427 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+    8.363  1427 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+    8.363  1427 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+    8.388  1435 Sent: Unknown 26 (0x1a) Request 
+    8.411  1441 Rcvd: Unknown 26 (0x1a) Response
+    8.414  1445 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+    8.414  1445 Sent:       0:currentLevel
+    8.414  1445 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+    8.414  1445 Sent:       0:currentLevel
+    8.443  1451 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+    8.459  1455 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+    8.462  1459 Sent: Query Send Data State (APS Data Confirm) Request
+    8.475  1461 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:15 Net:C Dev:--R-
+    8.487  1465 Sent: Unknown 26 (0x1a) Request 
+    8.507  1471 Rcvd: Unknown 26 (0x1a) Response
+    8.510  1475 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+    8.510  1475 Sent:       8:colorMode
+    8.510  1475 Sent:   16385:enhancedColorMode
+    8.510  1475 Sent:   16394:colorCapabilities
+    8.510  1475 Sent:   16395:colorTempPhysicalMin
+    8.510  1475 Sent:   16396:colorTempPhysicalMax
+    8.510  1475 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+    8.510  1475 Sent:       8:colorMode
+    8.510  1475 Sent:   16385:enhancedColorMode
+    8.510  1475 Sent:   16394:colorCapabilities
+    8.510  1475 Sent:   16395:colorTempPhysicalMin
+    8.510  1475 Sent:   16396:colorTempPhysicalMax
+    8.523  1477 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+    8.539  1481 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+    8.542  1485 Sent: Read Received Data (APS Data Indication) Request
+    8.555  1487 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+    8.571  1491 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+    8.571  1491 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+    8.571  1491 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+    8.571  1491 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+    8.574  1495 Sent: Query Send Data State (APS Data Confirm) Request
+    8.587  1497 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:16 Net:C Dev:--R-
+    8.590  1501 Sent: Unknown 26 (0x1a) Request 
+    8.603  1503 Rcvd: Unknown 26 (0x1a) Response
+    8.606  1507 Sent: Enqueue Send Data 0000 ZDO 0004 Simple Descriptor Req (0x0004) 
+    8.606  1507 Sent:   Addr:0000:80
+    8.651  1517 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+    8.667  1521 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+    8.667  1521 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+    8.670  1525 Sent: Read Received Data (APS Data Indication) Request
+    8.699  1531 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+    8.699  1531 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+    8.699  1531 Rcvd:   16385:enhancedColorMode 0:success 48:enum8 0x2(2)
+    8.699  1531 Rcvd:   16394:colorCapabilities 0:success 25:bitmap16 0x10(16)
+    8.699  1531 Rcvd:   16395:colorTempPhysicalMin 0:success 33:uint16 0x99(153)
+    8.699  1531 Rcvd:   16396:colorTempPhysicalMax 0:success 33:uint16 0x172(370)
+    8.699  1531 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+    8.699  1531 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+    8.699  1531 Rcvd:   16385:enhancedColorMode 0:success 48:enum8 0x2(2)
+    8.699  1531 Rcvd:   16394:colorCapabilities 0:success 25:bitmap16 0x10(16)
+    8.699  1531 Rcvd:   16395:colorTempPhysicalMin 0:success 33:uint16 0x99(153)
+    8.699  1531 Rcvd:   16396:colorTempPhysicalMax 0:success 33:uint16 0x172(370)
+    8.702  1535 Sent: Query Send Data State (APS Data Confirm) Request
+    8.715  1537 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:17 Net:C Dev:-DR-
+    8.718  1541 Sent: Read Received Data (APS Data Indication) Request
+    8.747  1547 Rcvd: Read Received Data 00212effff0279c0 ZDO 8004 Simple Descriptor Resp (0x8004)  status: success (0)
+    8.747  1547 Rcvd:   Status:0 Addr:0000 EP:80 Prof:de00 DevId:0001 DevVer:1
+    8.966  1603 Sent: Unknown 26 (0x1a) Request 
+    8.988  1609 Rcvd: Unknown 26 (0x1a) Response
+    8.991  1613 Sent: Enqueue Send Data 0000 ZDO 0004 Simple Descriptor Req (0x0004) 
+    8.991  1613 Sent:   Addr:0000:1
+    9.036  1623 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+    9.052  1627 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+    9.055  1631 Sent: Query Send Data State (APS Data Confirm) Request
+    9.068  1633 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:26 Net:C Dev:-DR-
+    9.071  1637 Sent: Read Received Data (APS Data Indication) Request
+    9.100  1643 Rcvd: Read Received Data 00212effff0279c0 ZDO 8004 Simple Descriptor Resp (0x8004)  status: success (0)
+    9.100  1643 Rcvd:   Status:0 Addr:0000 EP:1 Prof:0104 DevId:0005 DevVer:1
+    9.100  1643 Rcvd:   In:  0019-genOta
+    9.100  1643 Rcvd:   Out: 0500-ssIasZone
+    9.125  1651 Sent: Unknown 26 (0x1a) Request 
+    9.148  1657 Rcvd: Unknown 26 (0x1a) Response
+    9.151  1661 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+    9.151  1661 Sent:   si:0
+    9.180  1667 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+    9.196  1671 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+    9.199  1675 Sent: Query Send Data State (APS Data Confirm) Request
+    9.212  1677 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:29 Net:C Dev:--R-
+    9.260  1689 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+    9.263  1693 Sent: Read Received Data (APS Data Indication) Request
+    9.292  1699 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+    9.292  1699 Rcvd:   Status:0 si:0
+    9.292  1699 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+    9.388  1725 Sent: Unknown 26 (0x1a) Request 
+    9.404  1729 Rcvd: Unknown 26 (0x1a) Response
+    9.407  1733 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+    9.407  1733 Sent:       0:onOff
+    9.407  1733 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+    9.407  1733 Sent:       0:onOff
+    9.436  1739 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+    9.452  1743 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+    9.455  1747 Sent: Query Send Data State (APS Data Confirm) Request
+    9.468  1749 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:31 Net:C Dev:--R-
+    9.516  1761 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+    9.519  1765 Sent: Read Received Data (APS Data Indication) Request
+    9.548  1771 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+    9.548  1771 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+    9.548  1771 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+    9.548  1771 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+    9.588  1783 Sent: Unknown 26 (0x1a) Request 
+    9.612  1789 Rcvd: Unknown 26 (0x1a) Response
+    9.615  1793 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+    9.615  1793 Sent:       0:currentLevel
+    9.615  1793 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+    9.615  1793 Sent:       0:currentLevel
+    9.644  1799 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+    9.647  1803 Sent: Unknown 26 (0x1a) Request 
+    9.660  1805 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+    9.676  1809 Rcvd: Unknown 26 (0x1a) Response
+    9.679  1813 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+    9.679  1813 Sent:   si:0
+    9.724  1823 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+    9.727  1827 Sent: Query Send Data State (APS Data Confirm) Request
+    9.740  1829 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+    9.756  1833 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+    9.756  1833 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:36 Net:C Dev:CDR-
+    9.759  1837 Sent: Query Send Data State (APS Data Confirm) Request
+    9.772  1839 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:38 Net:C Dev:-DR-
+    9.775  1843 Sent: Read Received Data (APS Data Indication) Request
+    9.804  1849 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+    9.804  1849 Rcvd:   Status:0 si:0
+    9.804  1849 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+    9.807  1853 Sent: Read Received Data (APS Data Indication) Request
+    9.836  1859 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+    9.836  1859 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+    9.836  1859 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+    9.836  1859 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+    9.839  1863 Sent: Unknown 26 (0x1a) Request 
+    9.852  1865 Rcvd: Unknown 26 (0x1a) Response
+    9.855  1869 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+    9.855  1869 Sent:       7:colorTemperature
+    9.855  1869 Sent:       8:colorMode
+    9.855  1869 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+    9.855  1869 Sent:       7:colorTemperature
+    9.855  1869 Sent:       8:colorMode
+    9.884  1875 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+    9.900  1879 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+    9.903  1883 Sent: Query Send Data State (APS Data Confirm) Request
+    9.916  1885 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:39 Net:C Dev:--R-
+    9.965  1897 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+    9.968  1901 Sent: Read Received Data (APS Data Indication) Request
+    9.997  1907 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+    9.997  1907 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+    9.997  1907 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+    9.997  1907 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+    9.997  1907 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+    9.997  1907 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   10.085  1931 Sent: Unknown 26 (0x1a) Request 
+   10.109  1937 Rcvd: Unknown 26 (0x1a) Response
+   10.112  1941 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   10.112  1941 Sent:   si:0
+   10.141  1947 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   10.157  1951 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   10.160  1955 Sent: Query Send Data State (APS Data Confirm) Request
+   10.173  1957 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:46 Net:C Dev:--R-
+   10.221  1969 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   10.224  1973 Sent: Read Received Data (APS Data Indication) Request
+   10.253  1979 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   10.253  1979 Rcvd:   Status:0 si:0
+   10.253  1979 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   10.287  1991 Sent: Unknown 26 (0x1a) Request 
+   10.301  1993 Rcvd: Unknown 26 (0x1a) Response
+   10.304  1997 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   10.304  1997 Sent:       0:onOff
+   10.304  1997 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   10.304  1997 Sent:       0:onOff
+   10.333  2003 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   10.349  2007 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   10.352  2011 Sent: Query Send Data State (APS Data Confirm) Request
+   10.365  2013 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:49 Net:C Dev:--R-
+   10.413  2025 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   10.416  2029 Sent: Read Received Data (APS Data Indication) Request
+   10.445  2035 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   10.445  2035 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   10.445  2035 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   10.445  2035 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   10.489  2047 Sent: Unknown 26 (0x1a) Request 
+   10.509  2053 Rcvd: Unknown 26 (0x1a) Response
+   10.512  2057 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   10.512  2057 Sent:       0:currentLevel
+   10.512  2057 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   10.512  2057 Sent:       0:currentLevel
+   10.541  2063 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   10.557  2067 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   10.560  2071 Sent: Query Send Data State (APS Data Confirm) Request
+   10.573  2073 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:53 Net:C Dev:--R-
+   10.576  2077 Sent: Unknown 26 (0x1a) Request 
+   10.589  2079 Rcvd: Unknown 26 (0x1a) Response
+   10.592  2083 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   10.592  2083 Sent:   si:0
+   10.653  2097 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   10.653  2097 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   10.656  2101 Sent: Unknown 26 (0x1a) Request 
+   10.669  2103 Rcvd: Unknown 26 (0x1a) Response
+   10.672  2107 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   10.672  2107 Sent:       7:colorTemperature
+   10.672  2107 Sent:       8:colorMode
+   10.672  2107 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   10.672  2107 Sent:       7:colorTemperature
+   10.672  2107 Sent:       8:colorMode
+   10.701  2113 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:CDR-
+   10.704  2117 Sent: Query Send Data State (APS Data Confirm) Request
+   10.717  2119 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   10.733  2123 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:54 Net:C Dev:CDR-
+   10.736  2127 Sent: Query Send Data State (APS Data Confirm) Request
+   10.749  2129 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:55 Net:C Dev:-DR-
+   10.752  2133 Sent: Read Received Data (APS Data Indication) Request
+   10.781  2139 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   10.781  2139 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   10.781  2139 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   10.781  2139 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   10.784  2143 Sent: Read Received Data (APS Data Indication) Request
+   10.797  2145 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   10.813  2149 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   10.813  2149 Rcvd:   Status:0 si:0
+   10.813  2149 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   10.816  2153 Sent: Read Received Data (APS Data Indication) Request
+   10.845  2159 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   10.845  2159 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   10.845  2159 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   10.845  2159 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   10.845  2159 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   10.845  2159 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   11.045  2211 Sent: Unknown 26 (0x1a) Request 
+   11.070  2219 Rcvd: Unknown 26 (0x1a) Response
+   11.073  2221 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   11.073  2221 Sent:   si:0
+   11.102  2229 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   11.118  2233 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   11.121  2235 Sent: Query Send Data State (APS Data Confirm) Request
+   11.134  2239 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:63 Net:C Dev:--R-
+   11.182  2251 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   11.185  2253 Sent: Read Received Data (APS Data Indication) Request
+   11.214  2261 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   11.214  2261 Rcvd:   Status:0 si:0
+   11.214  2261 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   11.289  2279 Sent: Unknown 26 (0x1a) Request 
+   11.310  2287 Rcvd: Unknown 26 (0x1a) Response
+   11.322  2289 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   11.322  2289 Sent:       0:onOff
+   11.322  2289 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   11.322  2289 Sent:       0:onOff
+   11.358  2301 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   11.374  2305 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   11.377  2307 Sent: Query Send Data State (APS Data Confirm) Request
+   11.390  2311 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:66 Net:C Dev:--R-
+   11.438  2323 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   11.441  2325 Sent: Read Received Data (APS Data Indication) Request
+   11.470  2333 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   11.470  2333 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   11.470  2333 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   11.470  2333 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   11.523  2347 Sent: Unknown 26 (0x1a) Request 
+   11.550  2355 Rcvd: Unknown 26 (0x1a) Response
+   11.553  2357 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   11.553  2357 Sent:   si:0
+   11.598  2369 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   11.601  2371 Sent: Unknown 26 (0x1a) Request 
+   11.614  2375 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   11.614  2375 Rcvd: Unknown 26 (0x1a) Response
+   11.617  2377 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   11.617  2377 Sent:       0:currentLevel
+   11.617  2377 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   11.617  2377 Sent:       0:currentLevel
+   11.646  2385 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:CDR-
+   11.649  2387 Sent: Query Send Data State (APS Data Confirm) Request
+   11.662  2391 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   11.662  2391 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:71 Net:C Dev:CDR-
+   11.665  2393 Sent: Query Send Data State (APS Data Confirm) Request
+   11.678  2397 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:70 Net:C Dev:-DR-
+   11.681  2399 Sent: Read Received Data (APS Data Indication) Request
+   11.710  2407 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   11.710  2407 Rcvd:   Status:0 si:0
+   11.710  2407 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   11.713  2409 Sent: Unknown 26 (0x1a) Request 
+   11.726  2413 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   11.726  2413 Rcvd: Unknown 26 (0x1a) Response
+   11.729  2415 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   11.729  2415 Sent:       7:colorTemperature
+   11.729  2415 Sent:       8:colorMode
+   11.729  2415 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   11.729  2415 Sent:       7:colorTemperature
+   11.729  2415 Sent:       8:colorMode
+   11.758  2423 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+   11.761  2425 Sent: Read Received Data (APS Data Indication) Request
+   11.774  2429 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   11.790  2433 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   11.790  2433 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   11.790  2433 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   11.790  2433 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   11.793  2435 Sent: Query Send Data State (APS Data Confirm) Request
+   11.806  2439 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:73 Net:C Dev:--R-
+   11.838  2447 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   11.841  2449 Sent: Read Received Data (APS Data Indication) Request
+   11.870  2457 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   11.870  2457 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   11.870  2457 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   11.870  2457 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   11.870  2457 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   11.870  2457 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   12.004  2491 Sent: Unknown 26 (0x1a) Request 
+   12.014  2495 Rcvd: Unknown 26 (0x1a) Response
+   12.017  2497 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   12.017  2497 Sent:   si:0
+   12.046  2505 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   12.062  2509 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   12.065  2511 Sent: Query Send Data State (APS Data Confirm) Request
+   12.079  2515 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:80 Net:C Dev:--R-
+   12.127  2527 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   12.130  2529 Sent: Read Received Data (APS Data Indication) Request
+   12.159  2537 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   12.159  2537 Rcvd:   Status:0 si:0
+   12.159  2537 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   12.190  2545 Sent: Unknown 26 (0x1a) Request 
+   12.207  2551 Rcvd: Unknown 26 (0x1a) Response
+   12.210  2553 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   12.210  2553 Sent:       0:onOff
+   12.210  2553 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   12.210  2553 Sent:       0:onOff
+   12.239  2561 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   12.255  2565 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   12.258  2567 Sent: Query Send Data State (APS Data Confirm) Request
+   12.271  2571 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:83 Net:C Dev:--R-
+   12.319  2583 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   12.322  2585 Sent: Read Received Data (APS Data Indication) Request
+   12.351  2593 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   12.351  2593 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   12.351  2593 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   12.351  2593 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   12.388  2603 Sent: Unknown 26 (0x1a) Request 
+   12.399  2607 Rcvd: Unknown 26 (0x1a) Response
+   12.402  2609 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   12.402  2609 Sent:       0:currentLevel
+   12.402  2609 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   12.402  2609 Sent:       0:currentLevel
+   12.431  2617 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   12.447  2621 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   12.450  2623 Sent: Query Send Data State (APS Data Confirm) Request
+   12.463  2627 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:87 Net:C Dev:--R-
+   12.485  2633 Sent: Unknown 26 (0x1a) Request 
+   12.511  2641 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   12.511  2641 Rcvd: Unknown 26 (0x1a) Response
+   12.514  2643 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   12.514  2643 Sent:   si:0
+   12.559  2655 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+   12.559  2655 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   12.562  2657 Sent: Read Received Data (APS Data Indication) Request
+   12.591  2665 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   12.591  2665 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   12.591  2665 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   12.591  2665 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   12.594  2667 Sent: Query Send Data State (APS Data Confirm) Request
+   12.607  2671 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:89 Net:C Dev:-DR-
+   12.610  2673 Sent: Read Received Data (APS Data Indication) Request
+   12.639  2681 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   12.639  2681 Rcvd:   Status:0 si:0
+   12.639  2681 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   12.642  2683 Sent: Unknown 26 (0x1a) Request 
+   12.655  2687 Rcvd: Unknown 26 (0x1a) Response
+   12.658  2689 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   12.658  2689 Sent:       7:colorTemperature
+   12.658  2689 Sent:       8:colorMode
+   12.658  2689 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   12.658  2689 Sent:       7:colorTemperature
+   12.658  2689 Sent:       8:colorMode
+   12.687  2697 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   12.703  2701 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   12.706  2703 Sent: Query Send Data State (APS Data Confirm) Request
+   12.719  2707 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:88 Net:C Dev:--R-
+   12.767  2719 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   12.770  2721 Sent: Read Received Data (APS Data Indication) Request
+   12.799  2729 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   12.799  2729 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   12.799  2729 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   12.799  2729 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   12.799  2729 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   12.799  2729 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   12.967  2771 Sent: Unknown 26 (0x1a) Request 
+   12.992  2779 Rcvd: Unknown 26 (0x1a) Response
+   12.995  2781 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   12.995  2781 Sent:   si:0
+   13.024  2789 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   13.040  2793 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   13.043  2795 Sent: Query Send Data State (APS Data Confirm) Request
+   13.056  2799 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:97 Net:C Dev:--R-
+   13.104  2811 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   13.107  2813 Sent: Read Received Data (APS Data Indication) Request
+   13.136  2821 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   13.136  2821 Rcvd:   Status:0 si:0
+   13.136  2821 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   13.188  2835 Sent: Unknown 26 (0x1a) Request 
+   13.200  2839 Rcvd: Unknown 26 (0x1a) Response
+   13.203  2841 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   13.203  2841 Sent:       0:onOff
+   13.203  2841 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   13.203  2841 Sent:       0:onOff
+   13.232  2849 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   13.248  2853 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   13.251  2855 Sent: Query Send Data State (APS Data Confirm) Request
+   13.264  2859 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:100 Net:C Dev:--R-
+   13.312  2871 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   13.315  2873 Sent: Read Received Data (APS Data Indication) Request
+   13.344  2881 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   13.344  2881 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   13.344  2881 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   13.344  2881 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   13.387  2891 Sent: Unknown 26 (0x1a) Request 
+   13.408  2899 Rcvd: Unknown 26 (0x1a) Response
+   13.411  2901 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   13.411  2901 Sent:       0:currentLevel
+   13.411  2901 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   13.411  2901 Sent:       0:currentLevel
+   13.440  2909 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   13.446  2911 Sent: Unknown 26 (0x1a) Request 
+   13.456  2915 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   13.472  2919 Rcvd: Unknown 26 (0x1a) Response
+   13.475  2921 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   13.475  2921 Sent:   si:0
+   13.520  2933 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+   13.523  2935 Sent: Query Send Data State (APS Data Confirm) Request
+   13.536  2939 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   13.552  2943 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   13.552  2943 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:104 Net:C Dev:CDR-
+   13.555  2945 Sent: Query Send Data State (APS Data Confirm) Request
+   13.568  2949 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:105 Net:C Dev:-DR-
+   13.571  2951 Sent: Read Received Data (APS Data Indication) Request
+   13.600  2959 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   13.600  2959 Rcvd:   Status:0 si:0
+   13.600  2959 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   13.603  2961 Sent: Read Received Data (APS Data Indication) Request
+   13.632  2969 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   13.632  2969 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   13.632  2969 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   13.632  2969 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   13.635  2971 Sent: Unknown 26 (0x1a) Request 
+   13.648  2975 Rcvd: Unknown 26 (0x1a) Response
+   13.651  2977 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   13.651  2977 Sent:       7:colorTemperature
+   13.651  2977 Sent:       8:colorMode
+   13.651  2977 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   13.651  2977 Sent:       7:colorTemperature
+   13.651  2977 Sent:       8:colorMode
+   13.680  2985 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   13.696  2989 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   13.699  2991 Sent: Query Send Data State (APS Data Confirm) Request
+   13.712  2995 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:106 Net:C Dev:--R-
+   13.760  3007 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   13.763  3009 Sent: Read Received Data (APS Data Indication) Request
+   13.792  3017 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   13.792  3017 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   13.792  3017 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   13.792  3017 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   13.792  3017 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   13.792  3017 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   13.924  3051 Sent: Unknown 26 (0x1a) Request 
+   13.936  3055 Rcvd: Unknown 26 (0x1a) Response
+   13.939  3057 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   13.939  3057 Sent:   si:0
+   13.968  3065 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   13.984  3069 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   13.987  3071 Sent: Query Send Data State (APS Data Confirm) Request
+   14.000  3075 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:114 Net:C Dev:--R-
+   14.049  3087 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   14.052  3089 Sent: Read Received Data (APS Data Indication) Request
+   14.081  3097 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   14.081  3097 Rcvd:   Status:0 si:0
+   14.081  3097 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   14.087  3099 Sent: Unknown 26 (0x1a) Request 
+   14.113  3107 Rcvd: Unknown 26 (0x1a) Response
+   14.116  3109 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   14.116  3109 Sent:       0:onOff
+   14.116  3109 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   14.116  3109 Sent:       0:onOff
+   14.145  3117 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   14.161  3121 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   14.164  3123 Sent: Query Send Data State (APS Data Confirm) Request
+   14.177  3127 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:116 Net:C Dev:--R-
+   14.225  3139 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   14.228  3141 Sent: Read Received Data (APS Data Indication) Request
+   14.257  3149 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   14.257  3149 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   14.257  3149 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   14.257  3149 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   14.288  3157 Sent: Unknown 26 (0x1a) Request 
+   14.305  3163 Rcvd: Unknown 26 (0x1a) Response
+   14.308  3165 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   14.308  3165 Sent:       0:currentLevel
+   14.308  3165 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   14.308  3165 Sent:       0:currentLevel
+   14.337  3173 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   14.353  3177 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   14.356  3179 Sent: Query Send Data State (APS Data Confirm) Request
+   14.369  3183 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:120 Net:C Dev:--R-
+   14.387  3189 Sent: Unknown 26 (0x1a) Request 
+   14.401  3193 Rcvd: Unknown 26 (0x1a) Response
+   14.404  3195 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   14.404  3195 Sent:       7:colorTemperature
+   14.404  3195 Sent:       8:colorMode
+   14.404  3195 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   14.404  3195 Sent:       7:colorTemperature
+   14.404  3195 Sent:       8:colorMode
+   14.417  3199 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   14.433  3203 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+   14.436  3205 Sent: Read Received Data (APS Data Indication) Request
+   14.449  3209 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   14.465  3213 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   14.465  3213 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   14.465  3213 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   14.465  3213 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   14.468  3215 Sent: Query Send Data State (APS Data Confirm) Request
+   14.481  3219 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:122 Net:C Dev:--R-
+   14.484  3221 Sent: Unknown 26 (0x1a) Request 
+   14.513  3229 Rcvd: Unknown 26 (0x1a) Response
+   14.513  3229 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   14.516  3231 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   14.516  3231 Sent:   si:0
+   14.561  3243 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+   14.564  3245 Sent: Read Received Data (APS Data Indication) Request
+   14.577  3249 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   14.593  3253 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   14.593  3253 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   14.593  3253 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   14.593  3253 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   14.593  3253 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   14.593  3253 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   14.596  3255 Sent: Query Send Data State (APS Data Confirm) Request
+   14.609  3259 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:123 Net:C Dev:-DR-
+   14.612  3261 Sent: Read Received Data (APS Data Indication) Request
+   14.641  3269 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   14.641  3269 Rcvd:   Status:0 si:0
+   14.641  3269 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   14.885  3331 Sent: Unknown 26 (0x1a) Request 
+   14.897  3335 Rcvd: Unknown 26 (0x1a) Response
+   14.900  3337 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   14.900  3337 Sent:   si:0
+   14.929  3345 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   14.945  3349 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   14.948  3351 Sent: Query Send Data State (APS Data Confirm) Request
+   14.961  3355 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:131 Net:C Dev:--R-
+   15.009  3367 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   15.012  3369 Sent: Read Received Data (APS Data Indication) Request
+   15.042  3377 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   15.042  3377 Rcvd:   Status:0 si:0
+   15.042  3377 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   15.088  3389 Sent: Unknown 26 (0x1a) Request 
+   15.106  3395 Rcvd: Unknown 26 (0x1a) Response
+   15.109  3397 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   15.109  3397 Sent:       0:onOff
+   15.109  3397 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   15.109  3397 Sent:       0:onOff
+   15.138  3405 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   15.154  3409 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   15.157  3411 Sent: Query Send Data State (APS Data Confirm) Request
+   15.170  3415 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:133 Net:C Dev:--R-
+   15.218  3427 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   15.221  3429 Sent: Read Received Data (APS Data Indication) Request
+   15.250  3437 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   15.250  3437 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   15.250  3437 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   15.250  3437 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   15.290  3447 Sent: Unknown 26 (0x1a) Request 
+   15.314  3455 Rcvd: Unknown 26 (0x1a) Response
+   15.317  3457 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   15.317  3457 Sent:       0:currentLevel
+   15.317  3457 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   15.317  3457 Sent:       0:currentLevel
+   15.346  3465 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   15.362  3469 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   15.365  3471 Sent: Query Send Data State (APS Data Confirm) Request
+   15.378  3475 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:137 Net:C Dev:--R-
+   15.381  3477 Sent: Unknown 26 (0x1a) Request 
+   15.394  3481 Rcvd: Unknown 26 (0x1a) Response
+   15.397  3483 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   15.397  3483 Sent:   si:0
+   15.458  3499 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   15.458  3499 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   15.461  3501 Sent: Unknown 26 (0x1a) Request 
+   15.474  3505 Rcvd: Unknown 26 (0x1a) Response
+   15.477  3507 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   15.477  3507 Sent:       7:colorTemperature
+   15.477  3507 Sent:       8:colorMode
+   15.477  3507 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   15.477  3507 Sent:       7:colorTemperature
+   15.477  3507 Sent:       8:colorMode
+   15.506  3515 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:CDR-
+   15.509  3517 Sent: Query Send Data State (APS Data Confirm) Request
+   15.522  3521 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   15.538  3525 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:139 Net:C Dev:CDR-
+   15.541  3527 Sent: Query Send Data State (APS Data Confirm) Request
+   15.554  3531 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:140 Net:C Dev:-DR-
+   15.557  3533 Sent: Read Received Data (APS Data Indication) Request
+   15.586  3541 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   15.586  3541 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   15.586  3541 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   15.586  3541 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   15.589  3543 Sent: Read Received Data (APS Data Indication) Request
+   15.602  3547 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   15.618  3551 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   15.618  3551 Rcvd:   Status:0 si:0
+   15.618  3551 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   15.621  3553 Sent: Read Received Data (APS Data Indication) Request
+   15.650  3561 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   15.650  3561 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   15.650  3561 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   15.650  3561 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   15.650  3561 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   15.650  3561 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   15.844  3611 Sent: Unknown 26 (0x1a) Request 
+   15.858  3615 Rcvd: Unknown 26 (0x1a) Response
+   15.861  3617 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   15.861  3617 Sent:   si:0
+   15.890  3625 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   15.906  3629 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   15.909  3631 Sent: Query Send Data State (APS Data Confirm) Request
+   15.922  3635 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:148 Net:C Dev:--R-
+   15.970  3647 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   15.973  3649 Sent: Read Received Data (APS Data Indication) Request
+   16.002  3657 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   16.002  3657 Rcvd:   Status:0 si:0
+   16.002  3657 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   16.089  3679 Sent: Unknown 26 (0x1a) Request 
+   16.115  3687 Rcvd: Unknown 26 (0x1a) Response
+   16.118  3689 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   16.118  3689 Sent:       0:onOff
+   16.118  3689 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   16.118  3689 Sent:       0:onOff
+   16.147  3697 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   16.163  3701 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   16.166  3703 Sent: Query Send Data State (APS Data Confirm) Request
+   16.179  3707 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:150 Net:C Dev:--R-
+   16.227  3719 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   16.230  3721 Sent: Read Received Data (APS Data Indication) Request
+   16.259  3729 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   16.259  3729 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   16.259  3729 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   16.259  3729 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   16.290  3737 Sent: Unknown 26 (0x1a) Request 
+   16.307  3743 Rcvd: Unknown 26 (0x1a) Response
+   16.310  3745 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   16.310  3745 Sent:       0:currentLevel
+   16.310  3745 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   16.310  3745 Sent:       0:currentLevel
+   16.339  3753 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   16.342  3755 Sent: Unknown 26 (0x1a) Request 
+   16.355  3759 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   16.355  3759 Rcvd: Unknown 26 (0x1a) Response
+   16.358  3761 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   16.358  3761 Sent:   si:0
+   16.403  3773 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+   16.406  3775 Sent: Query Send Data State (APS Data Confirm) Request
+   16.419  3779 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   16.435  3783 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   16.435  3783 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:154 Net:C Dev:CDR-
+   16.438  3785 Sent: Query Send Data State (APS Data Confirm) Request
+   16.451  3789 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:155 Net:C Dev:-DR-
+   16.454  3791 Sent: Read Received Data (APS Data Indication) Request
+   16.483  3799 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   16.483  3799 Rcvd:   Status:0 si:0
+   16.483  3799 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   16.486  3801 Sent: Read Received Data (APS Data Indication) Request
+   16.515  3809 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   16.515  3809 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   16.515  3809 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   16.515  3809 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   16.518  3811 Sent: Unknown 26 (0x1a) Request 
+   16.531  3815 Rcvd: Unknown 26 (0x1a) Response
+   16.534  3817 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   16.534  3817 Sent:       7:colorTemperature
+   16.534  3817 Sent:       8:colorMode
+   16.534  3817 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   16.534  3817 Sent:       7:colorTemperature
+   16.534  3817 Sent:       8:colorMode
+   16.563  3825 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   16.579  3829 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   16.582  3831 Sent: Query Send Data State (APS Data Confirm) Request
+   16.595  3835 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:157 Net:C Dev:--R-
+   16.643  3847 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   16.646  3849 Sent: Read Received Data (APS Data Indication) Request
+   16.675  3857 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   16.675  3857 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   16.675  3857 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   16.675  3857 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   16.675  3857 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   16.675  3857 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   16.806  3891 Sent: Unknown 26 (0x1a) Request 
+   16.819  3895 Rcvd: Unknown 26 (0x1a) Response
+   16.822  3897 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   16.822  3897 Sent:   si:0
+   16.851  3905 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   16.867  3909 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   16.870  3911 Sent: Query Send Data State (APS Data Confirm) Request
+   16.883  3915 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:164 Net:C Dev:--R-
+   16.931  3927 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   16.934  3929 Sent: Read Received Data (APS Data Indication) Request
+   16.963  3937 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   16.963  3937 Rcvd:   Status:0 si:0
+   16.963  3937 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   16.988  3943 Sent: Unknown 26 (0x1a) Request 
+   17.011  3951 Rcvd: Unknown 26 (0x1a) Response
+   17.014  3953 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   17.014  3953 Sent:       0:onOff
+   17.014  3953 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   17.014  3953 Sent:       0:onOff
+   17.043  3961 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   17.060  3965 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   17.063  3967 Sent: Query Send Data State (APS Data Confirm) Request
+   17.076  3971 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:167 Net:C Dev:--R-
+   17.124  3983 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   17.127  3985 Sent: Read Received Data (APS Data Indication) Request
+   17.156  3993 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   17.156  3993 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   17.156  3993 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   17.156  3993 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   17.190  4003 Sent: Unknown 26 (0x1a) Request 
+   17.204  4007 Rcvd: Unknown 26 (0x1a) Response
+   17.207  4009 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   17.207  4009 Sent:       0:currentLevel
+   17.207  4009 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   17.207  4009 Sent:       0:currentLevel
+   17.236  4017 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   17.252  4021 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   17.255  4023 Sent: Query Send Data State (APS Data Confirm) Request
+   17.268  4027 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:171 Net:C Dev:--R-
+   17.283  4031 Sent: Unknown 26 (0x1a) Request 
+   17.300  4037 Rcvd: Unknown 26 (0x1a) Response
+   17.303  4039 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   17.303  4039 Sent:   si:0
+   17.316  4043 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   17.348  4051 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+   17.351  4053 Sent: Read Received Data (APS Data Indication) Request
+   17.364  4057 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   17.380  4061 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   17.380  4061 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   17.380  4061 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   17.380  4061 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   17.383  4063 Sent: Query Send Data State (APS Data Confirm) Request
+   17.396  4067 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:173 Net:C Dev:-DR-
+   17.405  4071 Sent: Read Received Data (APS Data Indication) Request
+   17.428  4077 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   17.428  4077 Rcvd:   Status:0 si:0
+   17.428  4077 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   17.431  4079 Sent: Unknown 26 (0x1a) Request 
+   17.444  4083 Rcvd: Unknown 26 (0x1a) Response
+   17.447  4085 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   17.447  4085 Sent:       7:colorTemperature
+   17.447  4085 Sent:       8:colorMode
+   17.447  4085 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   17.447  4085 Sent:       7:colorTemperature
+   17.447  4085 Sent:       8:colorMode
+   17.476  4093 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   17.492  4097 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   17.495  4099 Sent: Query Send Data State (APS Data Confirm) Request
+   17.508  4103 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:172 Net:C Dev:--R-
+   17.556  4115 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   17.559  4117 Sent: Read Received Data (APS Data Indication) Request
+   17.588  4125 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   17.588  4125 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   17.588  4125 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   17.588  4125 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   17.588  4125 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   17.588  4125 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   17.764  4171 Sent: Unknown 26 (0x1a) Request 
+   17.780  4175 Rcvd: Unknown 26 (0x1a) Response
+   17.783  4177 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   17.783  4177 Sent:   si:0
+   17.812  4185 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   17.828  4189 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   17.831  4191 Sent: Query Send Data State (APS Data Confirm) Request
+   17.844  4195 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:181 Net:C Dev:--R-
+   17.892  4207 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   17.895  4209 Sent: Read Received Data (APS Data Indication) Request
+   17.924  4217 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   17.924  4217 Rcvd:   Status:0 si:0
+   17.924  4217 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   17.989  4235 Sent: Unknown 26 (0x1a) Request 
+   18.004  4239 Rcvd: Unknown 26 (0x1a) Response
+   18.007  4241 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   18.007  4241 Sent:       0:onOff
+   18.007  4241 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   18.007  4241 Sent:       0:onOff
+   18.036  4249 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   18.053  4253 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   18.056  4255 Sent: Query Send Data State (APS Data Confirm) Request
+   18.069  4259 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:184 Net:C Dev:--R-
+   18.117  4271 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   18.120  4273 Sent: Read Received Data (APS Data Indication) Request
+   18.149  4281 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   18.149  4281 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   18.149  4281 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   18.149  4281 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   18.189  4293 Sent: Unknown 26 (0x1a) Request 
+   18.213  4299 Rcvd: Unknown 26 (0x1a) Response
+   18.216  4301 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   18.216  4301 Sent:       0:currentLevel
+   18.216  4301 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   18.216  4301 Sent:       0:currentLevel
+   18.245  4309 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   18.248  4311 Sent: Unknown 26 (0x1a) Request 
+   18.261  4315 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   18.261  4315 Rcvd: Unknown 26 (0x1a) Response
+   18.264  4317 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   18.264  4317 Sent:   si:0
+   18.309  4329 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+   18.312  4331 Sent: Query Send Data State (APS Data Confirm) Request
+   18.325  4335 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   18.341  4339 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   18.341  4339 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:188 Net:C Dev:CDR-
+   18.344  4341 Sent: Query Send Data State (APS Data Confirm) Request
+   18.357  4345 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:189 Net:C Dev:-DR-
+   18.360  4347 Sent: Read Received Data (APS Data Indication) Request
+   18.389  4355 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   18.389  4355 Rcvd:   Status:0 si:0
+   18.389  4355 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   18.392  4357 Sent: Read Received Data (APS Data Indication) Request
+   18.421  4365 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   18.421  4365 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   18.421  4365 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   18.421  4365 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   18.424  4367 Sent: Unknown 26 (0x1a) Request 
+   18.437  4371 Rcvd: Unknown 26 (0x1a) Response
+   18.440  4373 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   18.440  4373 Sent:       7:colorTemperature
+   18.440  4373 Sent:       8:colorMode
+   18.440  4373 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   18.440  4373 Sent:       7:colorTemperature
+   18.440  4373 Sent:       8:colorMode
+   18.469  4381 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   18.485  4385 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   18.488  4387 Sent: Query Send Data State (APS Data Confirm) Request
+   18.501  4391 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:191 Net:C Dev:--R-
+   18.549  4403 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   18.552  4405 Sent: Read Received Data (APS Data Indication) Request
+   18.581  4413 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   18.581  4413 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   18.581  4413 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   18.581  4413 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   18.581  4413 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   18.581  4413 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   18.724  4449 Sent: Unknown 26 (0x1a) Request 
+   18.741  4455 Rcvd: Unknown 26 (0x1a) Response
+   18.744  4457 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   18.744  4457 Sent:   si:0
+   18.773  4465 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   18.789  4469 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   18.792  4471 Sent: Query Send Data State (APS Data Confirm) Request
+   18.805  4475 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:198 Net:C Dev:--R-
+   18.853  4487 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   18.856  4489 Sent: Read Received Data (APS Data Indication) Request
+   18.885  4497 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   18.885  4497 Rcvd:   Status:0 si:0
+   18.885  4497 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   18.888  4499 Sent: Unknown 26 (0x1a) Request 
+   18.901  4503 Rcvd: Unknown 26 (0x1a) Response
+   18.904  4505 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   18.904  4505 Sent:       0:onOff
+   18.904  4505 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   18.904  4505 Sent:       0:onOff
+   18.933  4513 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   18.949  4517 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   18.952  4519 Sent: Query Send Data State (APS Data Confirm) Request
+   18.965  4523 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:201 Net:C Dev:--R-
+   19.013  4535 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   19.016  4537 Sent: Read Received Data (APS Data Indication) Request
+   19.045  4545 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   19.045  4545 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   19.045  4545 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   19.045  4545 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   19.088  4557 Sent: Unknown 26 (0x1a) Request 
+   19.110  4563 Rcvd: Unknown 26 (0x1a) Response
+   19.113  4565 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   19.113  4565 Sent:       0:currentLevel
+   19.113  4565 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   19.113  4565 Sent:       0:currentLevel
+   19.142  4573 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   19.158  4577 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   19.161  4579 Sent: Query Send Data State (APS Data Confirm) Request
+   19.174  4583 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:204 Net:C Dev:--R-
+   19.190  4587 Sent: Unknown 26 (0x1a) Request 
+   19.206  4593 Rcvd: Unknown 26 (0x1a) Response
+   19.209  4595 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   19.209  4595 Sent:       7:colorTemperature
+   19.209  4595 Sent:       8:colorMode
+   19.209  4595 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   19.209  4595 Sent:       7:colorTemperature
+   19.209  4595 Sent:       8:colorMode
+   19.222  4599 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   19.238  4603 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+   19.241  4605 Sent: Read Received Data (APS Data Indication) Request
+   19.254  4609 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   19.270  4613 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   19.270  4613 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   19.270  4613 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   19.270  4613 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   19.273  4615 Sent: Query Send Data State (APS Data Confirm) Request
+   19.286  4619 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:206 Net:C Dev:--R-
+   19.289  4621 Sent: Unknown 26 (0x1a) Request 
+   19.302  4625 Rcvd: Unknown 26 (0x1a) Response
+   19.305  4627 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   19.305  4627 Sent:   si:0
+   19.350  4639 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   19.350  4639 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+   19.353  4641 Sent: Read Received Data (APS Data Indication) Request
+   19.366  4645 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   19.382  4649 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   19.382  4649 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   19.382  4649 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   19.382  4649 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   19.382  4649 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   19.382  4649 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   19.385  4651 Sent: Query Send Data State (APS Data Confirm) Request
+   19.398  4655 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:207 Net:C Dev:-DR-
+   19.401  4657 Sent: Read Received Data (APS Data Indication) Request
+   19.430  4665 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   19.430  4665 Rcvd:   Status:0 si:0
+   19.430  4665 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   19.684  4729 Sent: Unknown 26 (0x1a) Request 
+   19.702  4735 Rcvd: Unknown 26 (0x1a) Response
+   19.705  4737 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   19.705  4737 Sent:   si:0
+   19.734  4745 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   19.750  4749 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   19.753  4751 Sent: Query Send Data State (APS Data Confirm) Request
+   19.766  4755 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:215 Net:C Dev:--R-
+   19.814  4767 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   19.817  4769 Sent: Read Received Data (APS Data Indication) Request
+   19.846  4777 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   19.846  4777 Rcvd:   Status:0 si:0
+   19.846  4777 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   19.890  4789 Sent: Unknown 26 (0x1a) Request 
+   19.910  4795 Rcvd: Unknown 26 (0x1a) Response
+   19.913  4797 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   19.913  4797 Sent:       0:onOff
+   19.913  4797 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   19.913  4797 Sent:       0:onOff
+   19.942  4805 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   19.958  4809 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   19.961  4811 Sent: Query Send Data State (APS Data Confirm) Request
+   19.974  4815 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:218 Net:C Dev:--R-
+   20.022  4827 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   20.025  4829 Sent: Read Received Data (APS Data Indication) Request
+   20.054  4837 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   20.054  4837 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   20.054  4837 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   20.054  4837 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   20.088  4847 Sent: Unknown 26 (0x1a) Request 
+   20.103  4851 Rcvd: Unknown 26 (0x1a) Response
+   20.106  4853 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   20.106  4853 Sent:       0:currentLevel
+   20.106  4853 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   20.106  4853 Sent:       0:currentLevel
+   20.135  4861 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   20.151  4865 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   20.154  4867 Sent: Query Send Data State (APS Data Confirm) Request
+   20.167  4871 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:222 Net:C Dev:--R-
+   20.170  4873 Sent: Unknown 26 (0x1a) Request 
+   20.183  4877 Rcvd: Unknown 26 (0x1a) Response
+   20.186  4879 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   20.186  4879 Sent:   si:0
+   20.247  4895 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   20.247  4895 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   20.250  4897 Sent: Unknown 26 (0x1a) Request 
+   20.263  4901 Rcvd: Unknown 26 (0x1a) Response
+   20.266  4903 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   20.266  4903 Sent:       7:colorTemperature
+   20.266  4903 Sent:       8:colorMode
+   20.266  4903 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   20.266  4903 Sent:       7:colorTemperature
+   20.266  4903 Sent:       8:colorMode
+   20.295  4911 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:CDR-
+   20.298  4913 Sent: Query Send Data State (APS Data Confirm) Request
+   20.311  4917 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   20.311  4917 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:224 Net:C Dev:CDR-
+   20.314  4919 Sent: Query Send Data State (APS Data Confirm) Request
+   20.327  4923 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:225 Net:C Dev:-DR-
+   20.330  4925 Sent: Read Received Data (APS Data Indication) Request
+   20.359  4933 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   20.359  4933 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   20.359  4933 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   20.359  4933 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   20.362  4935 Sent: Read Received Data (APS Data Indication) Request
+   20.375  4939 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   20.391  4943 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   20.391  4943 Rcvd:   Status:0 si:0
+   20.391  4943 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   20.394  4945 Sent: Read Received Data (APS Data Indication) Request
+   20.423  4953 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   20.423  4953 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   20.423  4953 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   20.423  4953 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   20.423  4953 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   20.423  4953 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   20.589  4997 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff off
+   20.589  4997 Sent:   payload: {}
+   20.589  4997 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff off
+   20.589  4997 Sent:   payload: {}
+   20.615  5003 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   20.631  5007 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   20.634  5009 Sent: Query Send Data State (APS Data Confirm) Request
+   20.647  5013 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:219 Net:C Dev:--R-
+   20.695  5025 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   20.698  5027 Sent: Read Received Data (APS Data Indication) Request
+   20.727  5035 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff defaultRsp
+   20.727  5035 Rcvd:   payload: { cmdId: 0, statusCode: 0 }
+   20.727  5035 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff defaultRsp
+   20.727  5035 Rcvd:   payload: { cmdId: 0, statusCode: 0 }
+   21.124  5135 Sent: Unknown 26 (0x1a) Request 
+   21.144  5141 Rcvd: Unknown 26 (0x1a) Response
+   21.147  5143 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   21.147  5143 Sent:   si:0
+   21.192  5155 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   21.208  5159 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   21.211  5161 Sent: Query Send Data State (APS Data Confirm) Request
+   21.224  5165 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:237 Net:C Dev:-DR-
+   21.227  5167 Sent: Read Received Data (APS Data Indication) Request
+   21.256  5175 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   21.256  5175 Rcvd:   Status:0 si:0
+   21.256  5175 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   21.605  5263 Sent: Unknown 26 (0x1a) Request 
+   21.624  5269 Rcvd: Unknown 26 (0x1a) Response
+   21.627  5271 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   21.627  5271 Sent:   si:0
+   21.656  5279 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   21.672  5283 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   21.675  5285 Sent: Query Send Data State (APS Data Confirm) Request
+   21.688  5289 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:241 Net:C Dev:--R-
+   21.736  5301 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   21.739  5303 Sent: Read Received Data (APS Data Indication) Request
+   21.768  5311 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   21.768  5311 Rcvd:   Status:0 si:0
+   21.768  5311 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   21.790  5319 Sent: Unknown 26 (0x1a) Request 
+   21.800  5321 Rcvd: Unknown 26 (0x1a) Response
+   21.803  5323 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   21.803  5323 Sent:       0:onOff
+   21.803  5323 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   21.803  5323 Sent:       0:onOff
+   21.832  5331 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   21.848  5335 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   21.851  5337 Sent: Query Send Data State (APS Data Confirm) Request
+   21.864  5341 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:243 Net:C Dev:--R-
+   21.912  5353 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   21.915  5355 Sent: Read Received Data (APS Data Indication) Request
+   21.944  5363 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   21.944  5363 Rcvd:       0:onOff 0:success 16:boolean 0x0(0)
+   21.944  5363 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   21.944  5363 Rcvd:       0:onOff 0:success 16:boolean 0x0(0)
+   22.085  5399 Sent: Unknown 26 (0x1a) Request 
+   22.104  5405 Rcvd: Unknown 26 (0x1a) Response
+   22.107  5407 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   22.107  5407 Sent:   si:0
+   22.152  5419 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   22.152  5419 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   22.155  5421 Sent: Query Send Data State (APS Data Confirm) Request
+   22.169  5425 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:247 Net:C Dev:-DR-
+   22.172  5429 Sent: Read Received Data (APS Data Indication) Request
+   22.201  5435 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   22.201  5435 Rcvd:   Status:0 si:0
+   22.201  5435 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   22.565  5527 Sent: Unknown 26 (0x1a) Request 
+   22.585  5533 Rcvd: Unknown 26 (0x1a) Response
+   22.588  5537 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   22.588  5537 Sent:   si:0
+   22.617  5543 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   22.633  5547 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   22.636  5551 Sent: Query Send Data State (APS Data Confirm) Request
+   22.649  5553 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:251 Net:C Dev:--R-
+   22.697  5565 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   22.700  5569 Sent: Read Received Data (APS Data Indication) Request
+   22.729  5575 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   22.729  5575 Rcvd:   Status:0 si:0
+   22.729  5575 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   22.788  5591 Sent: Unknown 26 (0x1a) Request 
+   22.809  5597 Rcvd: Unknown 26 (0x1a) Response
+   22.812  5601 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   22.812  5601 Sent:       0:onOff
+   22.812  5601 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   22.812  5601 Sent:       0:onOff
+   22.841  5607 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   22.857  5611 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   22.860  5615 Sent: Query Send Data State (APS Data Confirm) Request
+   22.873  5617 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:254 Net:C Dev:--R-
+   22.921  5629 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   22.924  5633 Sent: Read Received Data (APS Data Indication) Request
+   22.953  5639 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   22.953  5639 Rcvd:       0:onOff 0:success 16:boolean 0x0(0)
+   22.953  5639 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   22.953  5639 Rcvd:       0:onOff 0:success 16:boolean 0x0(0)
+   23.044  5663 Sent: Unknown 26 (0x1a) Request 
+   23.065  5669 Rcvd: Unknown 26 (0x1a) Response
+   23.068  5673 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   23.068  5673 Sent:   si:0
+   23.113  5683 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   23.113  5683 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   23.116  5687 Sent: Query Send Data State (APS Data Confirm) Request
+   23.129  5689 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:2 Net:C Dev:-DR-
+   23.132  5693 Sent: Read Received Data (APS Data Indication) Request
+   23.162  5699 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   23.162  5699 Rcvd:   Status:0 si:0
+   23.162  5699 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   23.200  5711 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff on
+   23.200  5711 Sent:   payload: {}
+   23.200  5711 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff on
+   23.200  5711 Sent:   payload: {}
+   23.226  5717 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   23.242  5721 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   23.245  5725 Sent: Query Send Data State (APS Data Confirm) Request
+   23.258  5727 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:5 Net:C Dev:--R-
+   23.322  5743 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   23.325  5747 Sent: Read Received Data (APS Data Indication) Request
+   23.354  5753 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff defaultRsp
+   23.354  5753 Rcvd:   payload: { cmdId: 1, statusCode: 0 }
+   23.354  5753 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff defaultRsp
+   23.354  5753 Rcvd:   payload: { cmdId: 1, statusCode: 0 }
+   23.523  5797 Sent: Unknown 26 (0x1a) Request 
+   23.546  5803 Rcvd: Unknown 26 (0x1a) Response
+   23.549  5807 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   23.549  5807 Sent:   si:0
+   23.578  5813 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   23.594  5817 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   23.597  5821 Sent: Query Send Data State (APS Data Confirm) Request
+   23.610  5823 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:9 Net:C Dev:--R-
+   23.658  5835 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   23.661  5839 Sent: Read Received Data (APS Data Indication) Request
+   23.690  5845 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   23.690  5845 Rcvd:   Status:0 si:0
+   23.690  5845 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   23.790  5873 Sent: Unknown 26 (0x1a) Request 
+   23.802  5875 Rcvd: Unknown 26 (0x1a) Response
+   23.805  5879 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   23.805  5879 Sent:       0:onOff
+   23.805  5879 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   23.805  5879 Sent:       0:onOff
+   23.834  5885 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   23.850  5889 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   23.853  5893 Sent: Query Send Data State (APS Data Confirm) Request
+   23.866  5895 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:12 Net:C Dev:--R-
+   23.930  5911 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   23.933  5915 Sent: Read Received Data (APS Data Indication) Request
+   23.962  5921 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   23.962  5921 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   23.962  5921 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   23.962  5921 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   23.990  5929 Sent: Unknown 26 (0x1a) Request 
+   24.010  5935 Rcvd: Unknown 26 (0x1a) Response
+   24.013  5939 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   24.013  5939 Sent:       0:currentLevel
+   24.013  5939 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   24.013  5939 Sent:       0:currentLevel
+   24.042  5945 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   24.045  5949 Sent: Unknown 26 (0x1a) Request 
+   24.058  5951 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   24.058  5951 Rcvd: Unknown 26 (0x1a) Response
+   24.061  5955 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   24.061  5955 Sent:   si:0
+   24.106  5965 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+   24.109  5969 Sent: Query Send Data State (APS Data Confirm) Request
+   24.122  5971 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   24.138  5975 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   24.138  5975 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:16 Net:C Dev:CDR-
+   24.141  5979 Sent: Query Send Data State (APS Data Confirm) Request
+   24.155  5983 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:17 Net:C Dev:-DR-
+   24.158  5985 Sent: Read Received Data (APS Data Indication) Request
+   24.187  5993 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   24.187  5993 Rcvd:   Status:0 si:0
+   24.187  5993 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   24.190  5995 Sent: Read Received Data (APS Data Indication) Request
+   24.219  6003 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   24.219  6003 Rcvd:       0:currentLevel 0:success 32:uint8 0xf5(245)
+   24.219  6003 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   24.219  6003 Rcvd:       0:currentLevel 0:success 32:uint8 0xf5(245)
+   24.222  6005 Sent: Unknown 26 (0x1a) Request 
+   24.235  6009 Rcvd: Unknown 26 (0x1a) Response
+   24.238  6011 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   24.238  6011 Sent:       7:colorTemperature
+   24.238  6011 Sent:       8:colorMode
+   24.238  6011 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   24.238  6011 Sent:       7:colorTemperature
+   24.238  6011 Sent:       8:colorMode
+   24.267  6019 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   24.283  6023 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   24.286  6025 Sent: Query Send Data State (APS Data Confirm) Request
+   24.299  6029 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:19 Net:C Dev:--R-
+   24.347  6041 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   24.350  6043 Sent: Read Received Data (APS Data Indication) Request
+   24.379  6051 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   24.379  6051 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   24.379  6051 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   24.379  6051 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   24.379  6051 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   24.379  6051 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   24.486  6077 Sent: Unknown 26 (0x1a) Request 
+   24.507  6085 Rcvd: Unknown 26 (0x1a) Response
+   24.510  6087 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   24.510  6087 Sent:   si:0
+   24.539  6095 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   24.555  6099 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   24.558  6101 Sent: Query Send Data State (APS Data Confirm) Request
+   24.571  6105 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:26 Net:C Dev:--R-
+   24.619  6117 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   24.622  6119 Sent: Read Received Data (APS Data Indication) Request
+   24.651  6127 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   24.651  6127 Rcvd:   Status:0 si:0
+   24.651  6127 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   24.688  6137 Sent: Unknown 26 (0x1a) Request 
+   24.699  6141 Rcvd: Unknown 26 (0x1a) Response
+   24.702  6143 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   24.702  6143 Sent:       0:onOff
+   24.702  6143 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   24.702  6143 Sent:       0:onOff
+   24.731  6151 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   24.747  6155 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   24.750  6157 Sent: Query Send Data State (APS Data Confirm) Request
+   24.763  6161 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:29 Net:C Dev:--R-
+   24.811  6173 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   24.814  6175 Sent: Read Received Data (APS Data Indication) Request
+   24.843  6183 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   24.843  6183 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   24.843  6183 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   24.843  6183 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   24.889  6193 Sent: Unknown 26 (0x1a) Request 
+   24.907  6201 Rcvd: Unknown 26 (0x1a) Response
+   24.910  6203 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   24.910  6203 Sent:       0:currentLevel
+   24.910  6203 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   24.910  6203 Sent:       0:currentLevel
+   24.939  6211 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   24.955  6215 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   24.958  6217 Sent: Query Send Data State (APS Data Confirm) Request
+   24.971  6221 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:33 Net:C Dev:--R-
+   24.974  6223 Sent: Unknown 26 (0x1a) Request 
+   24.987  6227 Rcvd: Unknown 26 (0x1a) Response
+   24.990  6229 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   24.990  6229 Sent:   si:0
+   25.051  6245 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   25.051  6245 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   25.054  6247 Sent: Unknown 26 (0x1a) Request 
+   25.067  6251 Rcvd: Unknown 26 (0x1a) Response
+   25.070  6253 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   25.070  6253 Sent:       7:colorTemperature
+   25.070  6253 Sent:       8:colorMode
+   25.070  6253 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   25.070  6253 Sent:       7:colorTemperature
+   25.070  6253 Sent:       8:colorMode
+   25.099  6261 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:CDR-
+   25.102  6263 Sent: Query Send Data State (APS Data Confirm) Request
+   25.115  6267 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   25.131  6271 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:34 Net:C Dev:CDR-
+   25.134  6273 Sent: Query Send Data State (APS Data Confirm) Request
+   25.147  6277 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:35 Net:C Dev:-DR-
+   25.150  6279 Sent: Read Received Data (APS Data Indication) Request
+   25.179  6287 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   25.179  6287 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   25.179  6287 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   25.179  6287 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   25.182  6289 Sent: Read Received Data (APS Data Indication) Request
+   25.195  6293 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   25.211  6297 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   25.211  6297 Rcvd:   Status:0 si:0
+   25.211  6297 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   25.214  6299 Sent: Read Received Data (APS Data Indication) Request
+   25.243  6307 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   25.243  6307 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   25.243  6307 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   25.243  6307 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   25.243  6307 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   25.243  6307 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   25.443  6357 Sent: Unknown 26 (0x1a) Request 
+   25.468  6365 Rcvd: Unknown 26 (0x1a) Response
+   25.471  6367 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   25.471  6367 Sent:   si:0
+   25.500  6375 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   25.516  6379 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   25.519  6381 Sent: Query Send Data State (APS Data Confirm) Request
+   25.532  6385 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:43 Net:C Dev:--R-
+   25.580  6397 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   25.583  6399 Sent: Read Received Data (APS Data Indication) Request
+   25.612  6407 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   25.612  6407 Rcvd:   Status:0 si:0
+   25.612  6407 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   25.687  6425 Sent: Unknown 26 (0x1a) Request 
+   25.708  6433 Rcvd: Unknown 26 (0x1a) Response
+   25.711  6435 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   25.711  6435 Sent:       0:onOff
+   25.711  6435 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   25.711  6435 Sent:       0:onOff
+   25.740  6443 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   25.756  6447 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   25.759  6449 Sent: Query Send Data State (APS Data Confirm) Request
+   25.772  6453 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:46 Net:C Dev:--R-
+   25.820  6465 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   25.823  6467 Sent: Read Received Data (APS Data Indication) Request
+   25.852  6475 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   25.852  6475 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   25.852  6475 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   25.852  6475 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   25.889  6485 Sent: Unknown 26 (0x1a) Request 
+   25.900  6489 Rcvd: Unknown 26 (0x1a) Response
+   25.903  6491 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   25.903  6491 Sent:       0:currentLevel
+   25.903  6491 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   25.903  6491 Sent:       0:currentLevel
+   25.932  6499 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   25.935  6501 Sent: Unknown 26 (0x1a) Request 
+   25.948  6505 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   25.948  6505 Rcvd: Unknown 26 (0x1a) Response
+   25.951  6507 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   25.951  6507 Sent:   si:0
+   25.996  6519 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+   25.999  6521 Sent: Query Send Data State (APS Data Confirm) Request
+   26.012  6525 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   26.028  6529 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   26.028  6529 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:50 Net:C Dev:CDR-
+   26.031  6531 Sent: Query Send Data State (APS Data Confirm) Request
+   26.044  6535 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:51 Net:C Dev:-DR-
+   26.047  6537 Sent: Read Received Data (APS Data Indication) Request
+   26.076  6545 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   26.076  6545 Rcvd:   Status:0 si:0
+   26.076  6545 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   26.079  6547 Sent: Read Received Data (APS Data Indication) Request
+   26.108  6555 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   26.108  6555 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   26.108  6555 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   26.108  6555 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   26.111  6557 Sent: Unknown 26 (0x1a) Request 
+   26.124  6561 Rcvd: Unknown 26 (0x1a) Response
+   26.127  6563 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   26.127  6563 Sent:       7:colorTemperature
+   26.127  6563 Sent:       8:colorMode
+   26.127  6563 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   26.127  6563 Sent:       7:colorTemperature
+   26.127  6563 Sent:       8:colorMode
+   26.156  6571 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   26.172  6575 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   26.175  6577 Sent: Query Send Data State (APS Data Confirm) Request
+   26.188  6581 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:52 Net:C Dev:--R-
+   26.237  6593 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   26.240  6595 Sent: Read Received Data (APS Data Indication) Request
+   26.269  6603 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   26.269  6603 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   26.269  6603 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   26.269  6603 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   26.269  6603 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   26.269  6603 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   26.404  6637 Sent: Unknown 26 (0x1a) Request 
+   26.429  6645 Rcvd: Unknown 26 (0x1a) Response
+   26.432  6647 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   26.432  6647 Sent:   si:0
+   26.461  6655 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   26.477  6659 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   26.480  6661 Sent: Query Send Data State (APS Data Confirm) Request
+   26.493  6665 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:60 Net:C Dev:--R-
+   26.541  6677 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   26.544  6679 Sent: Read Received Data (APS Data Indication) Request
+   26.573  6687 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   26.573  6687 Rcvd:   Status:0 si:0
+   26.573  6687 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   26.588  6691 Sent: Unknown 26 (0x1a) Request 
+   26.605  6697 Rcvd: Unknown 26 (0x1a) Response
+   26.608  6699 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   26.608  6699 Sent:       0:onOff
+   26.608  6699 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   26.608  6699 Sent:       0:onOff
+   26.637  6707 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   26.653  6711 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   26.656  6713 Sent: Query Send Data State (APS Data Confirm) Request
+   26.669  6717 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:62 Net:C Dev:--R-
+   26.717  6729 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   26.720  6731 Sent: Read Received Data (APS Data Indication) Request
+   26.749  6739 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   26.749  6739 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   26.749  6739 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   26.749  6739 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   26.790  6749 Sent: Unknown 26 (0x1a) Request 
+   26.813  6757 Rcvd: Unknown 26 (0x1a) Response
+   26.816  6759 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   26.816  6759 Sent:       0:currentLevel
+   26.816  6759 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   26.816  6759 Sent:       0:currentLevel
+   26.845  6767 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   26.861  6771 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   26.864  6773 Sent: Query Send Data State (APS Data Confirm) Request
+   26.877  6777 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:66 Net:C Dev:--R-
+   26.886  6779 Sent: Unknown 26 (0x1a) Request 
+   26.909  6787 Rcvd: Unknown 26 (0x1a) Response
+   26.912  6789 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   26.912  6789 Sent:   si:0
+   26.941  6797 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   26.957  6801 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+   26.960  6803 Sent: Read Received Data (APS Data Indication) Request
+   26.973  6807 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   26.989  6811 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   26.989  6811 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   26.989  6811 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   26.989  6811 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   26.992  6813 Sent: Query Send Data State (APS Data Confirm) Request
+   27.005  6817 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:69 Net:C Dev:-DR-
+   27.008  6819 Sent: Read Received Data (APS Data Indication) Request
+   27.037  6827 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   27.037  6827 Rcvd:   Status:0 si:0
+   27.037  6827 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   27.040  6829 Sent: Unknown 26 (0x1a) Request 
+   27.053  6833 Rcvd: Unknown 26 (0x1a) Response
+   27.056  6835 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   27.056  6835 Sent:       7:colorTemperature
+   27.056  6835 Sent:       8:colorMode
+   27.056  6835 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   27.056  6835 Sent:       7:colorTemperature
+   27.056  6835 Sent:       8:colorMode
+   27.085  6843 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   27.101  6847 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   27.104  6849 Sent: Query Send Data State (APS Data Confirm) Request
+   27.117  6853 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:68 Net:C Dev:--R-
+   27.165  6865 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   27.168  6867 Sent: Read Received Data (APS Data Indication) Request
+   27.197  6875 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   27.197  6875 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   27.197  6875 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   27.197  6875 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   27.197  6875 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   27.197  6875 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   27.366  6917 Sent: Unknown 26 (0x1a) Request 
+   27.390  6925 Rcvd: Unknown 26 (0x1a) Response
+   27.393  6927 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   27.393  6927 Sent:   si:0
+   27.422  6935 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   27.438  6939 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   27.441  6941 Sent: Query Send Data State (APS Data Confirm) Request
+   27.454  6945 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:77 Net:C Dev:--R-
+   27.502  6957 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   27.505  6959 Sent: Read Received Data (APS Data Indication) Request
+   27.534  6967 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   27.534  6967 Rcvd:   Status:0 si:0
+   27.534  6967 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   27.591  6981 Sent: Unknown 26 (0x1a) Request 
+   27.614  6989 Rcvd: Unknown 26 (0x1a) Response
+   27.617  6991 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   27.617  6991 Sent:       0:onOff
+   27.617  6991 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   27.617  6991 Sent:       0:onOff
+   27.646  6999 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   27.662  7003 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   27.665  7005 Sent: Query Send Data State (APS Data Confirm) Request
+   27.678  7009 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:79 Net:C Dev:--R-
+   27.726  7021 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   27.729  7023 Sent: Read Received Data (APS Data Indication) Request
+   27.758  7031 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   27.758  7031 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   27.758  7031 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   27.758  7031 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   27.789  7039 Sent: Unknown 26 (0x1a) Request 
+   27.806  7045 Rcvd: Unknown 26 (0x1a) Response
+   27.809  7047 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   27.809  7047 Sent:       0:currentLevel
+   27.809  7047 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   27.809  7047 Sent:       0:currentLevel
+   27.838  7055 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   27.844  7057 Sent: Unknown 26 (0x1a) Request 
+   27.854  7061 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   27.870  7065 Rcvd: Unknown 26 (0x1a) Response
+   27.873  7067 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   27.873  7067 Sent:   si:0
+   27.918  7079 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+   27.921  7081 Sent: Query Send Data State (APS Data Confirm) Request
+   27.934  7085 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   27.950  7089 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   27.950  7089 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:83 Net:C Dev:CDR-
+   27.953  7091 Sent: Query Send Data State (APS Data Confirm) Request
+   27.966  7095 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:85 Net:C Dev:-DR-
+   27.969  7097 Sent: Read Received Data (APS Data Indication) Request
+   27.998  7105 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   27.998  7105 Rcvd:   Status:0 si:0
+   27.998  7105 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   28.001  7107 Sent: Read Received Data (APS Data Indication) Request
+   28.030  7115 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   28.030  7115 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   28.030  7115 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   28.030  7115 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   28.033  7117 Sent: Unknown 26 (0x1a) Request 
+   28.046  7121 Rcvd: Unknown 26 (0x1a) Response
+   28.049  7123 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   28.049  7123 Sent:       7:colorTemperature
+   28.049  7123 Sent:       8:colorMode
+   28.049  7123 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   28.049  7123 Sent:       7:colorTemperature
+   28.049  7123 Sent:       8:colorMode
+   28.078  7131 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   28.094  7135 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   28.097  7137 Sent: Query Send Data State (APS Data Confirm) Request
+   28.110  7141 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:86 Net:C Dev:--R-
+   28.158  7153 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   28.161  7155 Sent: Read Received Data (APS Data Indication) Request
+   28.190  7163 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   28.190  7163 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   28.190  7163 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   28.190  7163 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   28.190  7163 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   28.190  7163 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   28.325  7197 Sent: Unknown 26 (0x1a) Request 
+   28.351  7205 Rcvd: Unknown 26 (0x1a) Response
+   28.354  7207 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   28.354  7207 Sent:   si:0
+   28.383  7215 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   28.399  7219 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   28.402  7221 Sent: Query Send Data State (APS Data Confirm) Request
+   28.415  7225 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:93 Net:C Dev:--R-
+   28.463  7237 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   28.466  7239 Sent: Read Received Data (APS Data Indication) Request
+   28.495  7247 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   28.495  7247 Rcvd:   Status:0 si:0
+   28.495  7247 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   28.588  7271 Sent: Unknown 26 (0x1a) Request 
+   28.607  7277 Rcvd: Unknown 26 (0x1a) Response
+   28.610  7279 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   28.610  7279 Sent:       0:onOff
+   28.610  7279 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   28.610  7279 Sent:       0:onOff
+   28.639  7287 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   28.655  7291 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   28.658  7293 Sent: Query Send Data State (APS Data Confirm) Request
+   28.671  7297 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:96 Net:C Dev:--R-
+   28.719  7309 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   28.722  7311 Sent: Read Received Data (APS Data Indication) Request
+   28.751  7319 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   28.751  7319 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   28.751  7319 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   28.751  7319 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   28.789  7329 Sent: Unknown 26 (0x1a) Request 
+   28.799  7333 Rcvd: Unknown 26 (0x1a) Response
+   28.802  7335 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   28.802  7335 Sent:       0:currentLevel
+   28.802  7335 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   28.802  7335 Sent:       0:currentLevel
+   28.831  7343 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   28.834  7345 Sent: Unknown 26 (0x1a) Request 
+   28.847  7349 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   28.847  7349 Rcvd: Unknown 26 (0x1a) Response
+   28.850  7351 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   28.850  7351 Sent:   si:0
+   28.895  7363 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+   28.898  7365 Sent: Query Send Data State (APS Data Confirm) Request
+   28.911  7369 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   28.911  7369 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   28.927  7373 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:100 Net:C Dev:CDR-
+   28.930  7375 Sent: Query Send Data State (APS Data Confirm) Request
+   28.942  7379 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:101 Net:C Dev:-DR-
+   28.946  7381 Sent: Read Received Data (APS Data Indication) Request
+   28.975  7389 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   28.975  7389 Rcvd:   Status:0 si:0
+   28.975  7389 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   28.978  7391 Sent: Read Received Data (APS Data Indication) Request
+   29.007  7399 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   29.007  7399 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   29.007  7399 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   29.007  7399 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   29.010  7401 Sent: Unknown 26 (0x1a) Request 
+   29.023  7405 Rcvd: Unknown 26 (0x1a) Response
+   29.026  7407 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   29.026  7407 Sent:       7:colorTemperature
+   29.026  7407 Sent:       8:colorMode
+   29.026  7407 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   29.026  7407 Sent:       7:colorTemperature
+   29.026  7407 Sent:       8:colorMode
+   29.055  7415 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   29.071  7419 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   29.074  7421 Sent: Query Send Data State (APS Data Confirm) Request
+   29.087  7425 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:103 Net:C Dev:--R-
+   29.135  7437 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   29.138  7439 Sent: Read Received Data (APS Data Indication) Request
+   29.167  7447 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   29.167  7447 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   29.167  7447 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   29.167  7447 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   29.167  7447 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   29.167  7447 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   29.286  7477 Sent: Unknown 26 (0x1a) Request 
+   29.312  7485 Rcvd: Unknown 26 (0x1a) Response
+   29.315  7487 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   29.315  7487 Sent:   si:0
+   29.344  7495 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   29.347  7497 Sent: Unknown 26 (0x1a) Request 
+   29.360  7501 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   29.360  7501 Rcvd: Unknown 26 (0x1a) Response
+   29.363  7503 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   29.363  7503 Sent:       0:onOff
+   29.363  7503 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   29.363  7503 Sent:       0:onOff
+   29.392  7511 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+   29.395  7513 Sent: Query Send Data State (APS Data Confirm) Request
+   29.424  7521 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   29.424  7521 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:111 Net:C Dev:CDR-
+   29.427  7523 Sent: Query Send Data State (APS Data Confirm) Request
+   29.440  7527 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:110 Net:C Dev:-DR-
+   29.443  7529 Sent: Read Received Data (APS Data Indication) Request
+   29.488  7541 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   29.488  7541 Rcvd:   Status:0 si:0
+   29.488  7541 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:254
+   29.488  7541 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   29.491  7543 Sent: Read Received Data (APS Data Indication) Request
+   29.520  7551 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   29.520  7551 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   29.520  7551 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   29.520  7551 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   29.589  7569 Sent: Unknown 26 (0x1a) Request 
+   29.600  7573 Rcvd: Unknown 26 (0x1a) Response
+   29.603  7575 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   29.603  7575 Sent:       0:onOff
+   29.603  7575 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   29.603  7575 Sent:       0:onOff
+   29.632  7583 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   29.648  7587 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   29.651  7589 Sent: Query Send Data State (APS Data Confirm) Request
+   29.664  7593 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:116 Net:C Dev:--R-
+   29.712  7605 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   29.715  7607 Sent: Read Received Data (APS Data Indication) Request
+   29.744  7615 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   29.744  7615 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   29.744  7615 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   29.744  7615 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   29.766  7621 Sent: Unknown 26 (0x1a) Request 
+   29.792  7629 Rcvd: Unknown 26 (0x1a) Response
+   29.795  7631 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   29.795  7631 Sent:   si:0
+   29.840  7643 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   29.840  7643 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   29.843  7645 Sent: Unknown 26 (0x1a) Request 
+   29.856  7649 Rcvd: Unknown 26 (0x1a) Response
+   29.859  7651 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   29.859  7651 Sent:       0:currentLevel
+   29.859  7651 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   29.859  7651 Sent:       0:currentLevel
+   29.888  7659 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:CDR-
+   29.891  7661 Sent: Query Send Data State (APS Data Confirm) Request
+   29.904  7665 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   29.920  7669 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:120 Net:C Dev:CDR-
+   29.923  7671 Sent: Query Send Data State (APS Data Confirm) Request
+   29.936  7675 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:121 Net:C Dev:-DR-
+   29.939  7677 Sent: Read Received Data (APS Data Indication) Request
+   29.984  7689 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   29.984  7689 Rcvd:   Status:0 si:0
+   29.984  7689 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   29.984  7689 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   29.987  7691 Sent: Read Received Data (APS Data Indication) Request
+   30.016  7699 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   30.016  7699 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   30.016  7699 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   30.016  7699 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   30.019  7701 Sent: Unknown 26 (0x1a) Request 
+   30.032  7705 Rcvd: Unknown 26 (0x1a) Response
+   30.035  7707 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   30.035  7707 Sent:       7:colorTemperature
+   30.035  7707 Sent:       8:colorMode
+   30.035  7707 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   30.035  7707 Sent:       7:colorTemperature
+   30.035  7707 Sent:       8:colorMode
+   30.064  7715 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   30.080  7719 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   30.083  7721 Sent: Query Send Data State (APS Data Confirm) Request
+   30.096  7725 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:123 Net:C Dev:--R-
+   30.144  7737 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   30.147  7739 Sent: Read Received Data (APS Data Indication) Request
+   30.176  7747 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   30.176  7747 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   30.176  7747 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   30.176  7747 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   30.176  7747 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   30.176  7747 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   30.244  7765 Sent: Unknown 26 (0x1a) Request 
+   30.256  7769 Rcvd: Unknown 26 (0x1a) Response
+   30.259  7771 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   30.259  7771 Sent:   si:0
+   30.289  7779 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   30.305  7783 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   30.308  7785 Sent: Query Send Data State (APS Data Confirm) Request
+   30.321  7789 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:130 Net:C Dev:--R-
+   30.369  7801 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   30.372  7803 Sent: Read Received Data (APS Data Indication) Request
+   30.401  7811 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   30.401  7811 Rcvd:   Status:0 si:0
+   30.401  7811 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   30.488  7833 Sent: Unknown 26 (0x1a) Request 
+   30.513  7841 Rcvd: Unknown 26 (0x1a) Response
+   30.516  7843 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   30.516  7843 Sent:       0:onOff
+   30.516  7843 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   30.516  7843 Sent:       0:onOff
+   30.545  7851 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   30.561  7855 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   30.564  7857 Sent: Query Send Data State (APS Data Confirm) Request
+   30.577  7861 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:133 Net:C Dev:--R-
+   30.625  7873 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   30.628  7875 Sent: Read Received Data (APS Data Indication) Request
+   30.657  7883 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   30.657  7883 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   30.657  7883 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   30.657  7883 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   30.688  7891 Sent: Unknown 26 (0x1a) Request 
+   30.705  7897 Rcvd: Unknown 26 (0x1a) Response
+   30.708  7899 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   30.708  7899 Sent:       0:currentLevel
+   30.708  7899 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   30.708  7899 Sent:       0:currentLevel
+   30.737  7907 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   30.740  7909 Sent: Unknown 26 (0x1a) Request 
+   30.753  7913 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   30.753  7913 Rcvd: Unknown 26 (0x1a) Response
+   30.769  7917 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   30.769  7917 Sent:   si:0
+   30.817  7931 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:C-R-
+   30.817  7931 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   30.820  7933 Sent: Query Send Data State (APS Data Confirm) Request
+   30.833  7937 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
+   30.849  7941 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:137 Net:C Dev:CDR-
+   30.852  7943 Sent: Query Send Data State (APS Data Confirm) Request
+   30.865  7947 Rcvd: Query Send Data State (APS Data Confirm) Response 0000 ID:138 Net:C Dev:-DR-
+   30.868  7949 Sent: Read Received Data (APS Data Indication) Request
+   30.897  7957 Rcvd: Read Received Data 00212effff0279c0 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   30.897  7957 Rcvd:   Status:0 si:0
+   30.897  7957 Rcvd:   PAN:00212effff0279c0 Addr:f0d1b80000026da5 56c4 DT:Router R:None     PJ:Y D:0  LQI:252
+   30.900  7959 Sent: Read Received Data (APS Data Indication) Request
+   30.929  7967 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   30.929  7967 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   30.929  7967 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0008 genLevelCtrl readRsp
+   30.929  7967 Rcvd:       0:currentLevel 0:success 32:uint8 0xfe(254)
+   30.932  7969 Sent: Unknown 26 (0x1a) Request 
+   30.945  7973 Rcvd: Unknown 26 (0x1a) Response
+   30.948  7975 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   30.948  7975 Sent:       7:colorTemperature
+   30.948  7975 Sent:       8:colorMode
+   30.948  7975 Sent: Enqueue Send Data 56c4 ZHA 0300 lightingColorCtrl read
+   30.948  7975 Sent:       7:colorTemperature
+   30.948  7975 Sent:       8:colorMode
+   30.977  7983 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   30.993  7987 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   30.996  7989 Sent: Query Send Data State (APS Data Confirm) Request
+   31.009  7993 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:140 Net:C Dev:--R-
+   31.057  8005 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   31.060  8007 Sent: Read Received Data (APS Data Indication) Request
+   31.089  8015 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   31.089  8015 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   31.089  8015 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   31.089  8015 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0300 lightingColorCtrl readRsp
+   31.089  8015 Rcvd:       7:colorTemperature 0:success 33:uint16 0x172(370)
+   31.089  8015 Rcvd:       8:colorMode 0:success 48:enum8 0x2(2)
+   31.205  8045 Sent: Unknown 26 (0x1a) Request 
+   31.217  8049 Rcvd: Unknown 26 (0x1a) Response
+   31.220  8051 Sent: Enqueue Send Data 56c4 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   31.220  8051 Sent:   si:0
+   31.249  8059 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   31.265  8063 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   31.268  8065 Sent: Query Send Data State (APS Data Confirm) Request
+   31.281  8069 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:147 Net:C Dev:--R-
+   31.330  8081 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   31.333  8083 Sent: Read Received Data (APS Data Indication) Request
+   31.362  8091 Rcvd: Read Received Data f0d1b80000026da5 ZDO 8031 Mgmt LQI (Neighbor Table) Resp (0x8031)  status: success (0)
+   31.362  8091 Rcvd:   Status:0 si:0
+   31.362  8091 Rcvd:   PAN:00212effff0279c0 Addr:00212effff0279c0 0000 DT:Coord  R:Parent   PJ:? D:0  LQI:255
+   31.390  8099 Sent: Unknown 26 (0x1a) Request 
+   31.410  8105 Rcvd: Unknown 26 (0x1a) Response
+   31.413  8107 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   31.413  8107 Sent:       0:onOff
+   31.413  8107 Sent: Enqueue Send Data 56c4 ZHA 0006 genOnOff read
+   31.413  8107 Sent:       0:onOff
+   31.442  8115 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   31.458  8119 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   31.461  8121 Sent: Query Send Data State (APS Data Confirm) Request
+   31.474  8125 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:150 Net:C Dev:--R-
+   31.522  8137 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   31.525  8139 Sent: Read Received Data (APS Data Indication) Request
+   31.554  8147 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   31.554  8147 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   31.554  8147 Rcvd: Read Received Data f0d1b80000026da5 ZHA 0006 genOnOff readRsp
+   31.554  8147 Rcvd:       0:onOff 0:success 16:boolean 0x1(1)
+   31.588  8157 Sent: Unknown 26 (0x1a) Request 
+   31.602  8161 Rcvd: Unknown 26 (0x1a) Response
+   31.605  8163 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   31.605  8163 Sent:       0:currentLevel
+   31.605  8163 Sent: Enqueue Send Data 56c4 ZHA 0008 genLevelCtrl read
+   31.605  8163 Sent:       0:currentLevel
+   31.634  8171 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:--R-
+   31.650  8175 Rcvd: Device State Changed (0x0e) Response Net:C Dev:C-R-
+   31.653  8177 Sent: Query Send Data State (APS Data Confirm) Request
+   31.666  8181 Rcvd: Query Send Data State (APS Data Confirm) Response 56c4 ID:153 Net:C Dev:--R-
+   31.685  8187 Sent: Unknown 26 (0x1a) Request 
+   31.714  8195 Rcvd: Unknown 26 (0x1a) Response
+   31.714  8195 Rcvd: Device State Changed (0x0e) Response Net:C Dev:-DR-
+   31.717  8197 Sent: Enqueue Send Data 0000 ZDO 0031 Mgmt LQI (Neighbor Table) Req (0x0031) 
+   31.717  8197 Sent:   si:0
+   31.762  8209 Rcvd: Enqueue Send Data (APS Data Request) Response Net:C Dev:-DR-
+   31.762  8209 Rcvd: Device State Changed (0x0e) Response Net:C Dev:CDR-
